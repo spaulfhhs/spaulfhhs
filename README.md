@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>School Projects</b>
-  - [1D array I/O](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [1D array I/O](https://github.com/spaulfhhs/1D-array-I-O)
 <!--
 <h2>📺 Popular YouTube Videos</h2>
 
